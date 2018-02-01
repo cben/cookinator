@@ -1,3 +1,3 @@
 module Cookinator
-  VERSION = "0.0.3.--remote1"
+  VERSION = "0.0.4"
 end
